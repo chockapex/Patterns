@@ -19,5 +19,5 @@ class Pattern8{
             {
                 System.out.println(sc.next()+" can't be fitted anywhere.");
             }
-    }
+    }//This is pink branch
 }
