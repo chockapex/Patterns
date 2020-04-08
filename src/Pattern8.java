@@ -1,5 +1,5 @@
 import java.util.*;
-import java.io.*;
+import java.io.*;//close chrome
 class Pattern8{
     public static void main(String []argh)
     {
