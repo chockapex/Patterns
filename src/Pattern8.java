@@ -12,9 +12,6 @@ class Pattern8{
         Scanner sc = new Scanner(System.in);
         int t=sc.nextInt();
 
-        for(int i=0;i<t;i++)
-        {
-
             try
             {
                 long x=sc.nextLong();
@@ -30,7 +27,6 @@ class Pattern8{
                 System.out.println(sc.next()+" can't be fitted anywhere.");
             }
 
-        }
     }
 }
 
