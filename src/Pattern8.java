@@ -1,17 +1,10 @@
 import java.util.*;
 import java.io.*;
-
-
-
 class Pattern8{
     public static void main(String []argh)
     {
-
-
-
         Scanner sc = new Scanner(System.in);
         int t=sc.nextInt();
-
             try
             {
                 long x=sc.nextLong();
@@ -26,9 +19,5 @@ class Pattern8{
             {
                 System.out.println(sc.next()+" can't be fitted anywhere.");
             }
-
     }
 }
-
-
-
